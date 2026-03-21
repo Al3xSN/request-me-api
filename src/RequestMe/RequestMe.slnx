@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="RequestMe.API/RequestMe.API.csproj" />
-  <Project Path="RequestMe.Repository/RequestMe.Repository.csproj" />
-  <Project Path="RequestMe.Service/RequestMe.Service.csproj" />
+  <Project Path="RequestMe.Application/RequestMe.Application.csproj" />
+  <Project Path="RequestMe.Domain/RequestMe.Domain.csproj" />
+  <Project Path="RequestMe.Infrastructure/RequestMe.Infrastructure.csproj" />
 </Solution>
