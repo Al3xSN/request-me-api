@@ -1,4 +1,4 @@
-﻿namespace RequestMe.Repository.Entities;
+﻿namespace RequestMe.Domain.Entities;
 
 public class Club : AuditedEntity
 {

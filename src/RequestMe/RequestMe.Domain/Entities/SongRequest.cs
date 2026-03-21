@@ -1,4 +1,4 @@
-﻿namespace RequestMe.Repository.Entities;
+﻿namespace RequestMe.Domain.Entities;
 
 public class SongRequest : AuditedEntity
 {
@@ -15,6 +15,6 @@ public class SongRequest : AuditedEntity
     public User User { get; set; }
 
     public Guid PartyId { get; set; }
-    
+
     public Party Party { get; set; }
 }
